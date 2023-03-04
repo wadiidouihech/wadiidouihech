@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Windows and Linux System Administration**
 
-- 👯 I’m looking to collaborate on **Capture the Flag Chanllenges**
+- 👯 I’m looking to collaborate on **Capture the Flag Challenges**
 
 - 🤝 I’m looking for help with **Learning Cyber Security**
 
